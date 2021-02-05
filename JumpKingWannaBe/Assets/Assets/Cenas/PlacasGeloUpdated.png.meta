@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 614656892227e7441aeb8cbc8a1977ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1996454708648188179
+    second: PlacasGeloUpdated_0
+  - first:
+      213: -7742766617072463948
+    second: PlacasGeloUpdated_1
+  - first:
+      213: -9088423465256893037
+    second: PlacasGeloUpdated_2
+  - first:
+      213: 2983849516008173833
+    second: PlacasGeloUpdated_3
+  - first:
+      213: -1499107582435971655
+    second: PlacasGeloUpdated_4
+  - first:
+      213: 1912964846911061068
+    second: PlacasGeloUpdated_5
+  - first:
+      213: 4378193812021294465
+    second: PlacasGeloUpdated_6
+  - first:
+      213: 5593534981542134043
+    second: PlacasGeloUpdated_7
+  - first:
+      213: 1134265673505874839
+    second: PlacasGeloUpdated_8
+  - first:
+      213: -6735083313584826400
+    second: PlacasGeloUpdated_9
+  - first:
+      213: 6198055787672331328
+    second: PlacasGeloUpdated_0
+  - first:
+      213: 2834233157304478035
+    second: PlacasGeloUpdated_1
+  - first:
+      213: 3609905728629453170
+    second: PlacasGeloUpdated_2
+  - first:
+      213: -2796244094245938031
+    second: PlacasGeloUpdated_3
+  - first:
+      213: 3329840473647216914
+    second: PlacasGeloUpdated_4
+  - first:
+      213: -6714589275639028258
+    second: PlacasGeloUpdated_5
+  - first:
+      213: -8923552223146850280
+    second: PlacasGeloUpdated_6
+  - first:
+      213: 653754435268384228
+    second: PlacasGeloUpdated_7
+  - first:
+      213: -4797797452236357866
+    second: PlacasGeloUpdated_8
+  - first:
+      213: -2416986343631241370
+    second: PlacasGeloUpdated_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044634276eae30650800000000000000
+      internalID: 6198055787672331328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 340
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35964c74a08355720800000000000000
+      internalID: 2834233157304478035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713b935226f81230800000000000000
+      internalID: 3609905728629453170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdf29bfceb139d0800000000000000
+      internalID: -2796244094245938031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 259
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f57eb448f53e20800000000000000
+      internalID: 3329840473647216914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 259
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed563e411acf0d2a0800000000000000
+      internalID: -6714589275639028258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 204
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184fa4388c292480800000000000000
+      internalID: -8923552223146850280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 204
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e51284f13a921900800000000000000
+      internalID: 653754435268384228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 204
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f7d2313acca6db0800000000000000
+      internalID: -4797797452236357866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlacasGeloUpdated_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 204
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb3e8e9b3257ed0800000000000000
+      internalID: -2416986343631241370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

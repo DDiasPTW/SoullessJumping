@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e8bd380bb56ce04089d526a7b45b507
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mechanihan Ribbon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d3dc18c41e375642a5a992367985c99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

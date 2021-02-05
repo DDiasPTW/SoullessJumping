@@ -1,0 +1,1427 @@
+fileFormatVersion: 2
+guid: d1fe67ea589239348837ce4f62e359d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8380300273816971617
+    second: AssetsPraia_0
+  - first:
+      213: -5381205448926735642
+    second: AssetsPraia_1
+  - first:
+      213: 8908507374263149819
+    second: AssetsPraia_2
+  - first:
+      213: -8412116984202690580
+    second: AssetsPraia_3
+  - first:
+      213: -675853794036529689
+    second: AssetsPraia_4
+  - first:
+      213: -5303692947435416665
+    second: AssetsPraia_5
+  - first:
+      213: 4138329509533679175
+    second: AssetsPraia_6
+  - first:
+      213: -9086946928686477845
+    second: AssetsPraia_7
+  - first:
+      213: -3212290269508681915
+    second: AssetsPraia_8
+  - first:
+      213: -5591658485602871708
+    second: AssetsPraia_9
+  - first:
+      213: -3382902048807492765
+    second: AssetsPraia_10
+  - first:
+      213: -1220721361504330852
+    second: AssetsPraia_11
+  - first:
+      213: -1733240649367176028
+    second: AssetsPraia_12
+  - first:
+      213: -4871989641591062257
+    second: AssetsPraia_13
+  - first:
+      213: 9023500802109156473
+    second: AssetsPraia_14
+  - first:
+      213: 3832991574517259479
+    second: AssetsPraia_15
+  - first:
+      213: 6420618867062598320
+    second: AssetsPraia_16
+  - first:
+      213: -5436936799280162232
+    second: AssetsPraia_17
+  - first:
+      213: 1084549387432912443
+    second: AssetsPraia_18
+  - first:
+      213: 2409018131558926755
+    second: AssetsPraia_19
+  - first:
+      213: -6520763599235660992
+    second: AssetsPraia_20
+  - first:
+      213: -3373042894288799784
+    second: AssetsPraia_21
+  - first:
+      213: 6869962059313858953
+    second: AssetsPraia_22
+  - first:
+      213: 2990031954357494127
+    second: AssetsPraia_23
+  - first:
+      213: 3242951482684096916
+    second: AssetsPraia_24
+  - first:
+      213: -4796026923184299622
+    second: AssetsPraia_25
+  - first:
+      213: -5527015208957317462
+    second: AssetsPraia_26
+  - first:
+      213: -5145881241050220801
+    second: AssetsPraia_27
+  - first:
+      213: 8780091068883973888
+    second: AssetsPraia_28
+  - first:
+      213: 1588305707357706440
+    second: AssetsPraia_29
+  - first:
+      213: 6309434669206007110
+    second: AssetsPraia_30
+  - first:
+      213: -1485200122023946160
+    second: AssetsPraia_31
+  - first:
+      213: 2219079966676087818
+    second: AssetsPraia_32
+  - first:
+      213: 8467521266412910604
+    second: AssetsPraia_33
+  - first:
+      213: -7654856420120688334
+    second: AssetsPraia_34
+  - first:
+      213: -400883198627964183
+    second: AssetsPraia_35
+  - first:
+      213: 2043988673446566743
+    second: AssetsPraia_36
+  - first:
+      213: 2945715273953926398
+    second: AssetsPraia_37
+  - first:
+      213: 5191236499419041850
+    second: AssetsPraia_38
+  - first:
+      213: -3468695122956955017
+    second: AssetsPraia_39
+  - first:
+      213: -4333662277786633483
+    second: AssetsPraia_40
+  - first:
+      213: 2849727835202975199
+    second: AssetsPraia_41
+  - first:
+      213: -6783985375309377005
+    second: AssetsPraia_42
+  - first:
+      213: 7834315928428074247
+    second: AssetsPraia_43
+  - first:
+      213: 2411840293946947199
+    second: AssetsPraia_44
+  - first:
+      213: -2487792375103942631
+    second: AssetsPraia_45
+  - first:
+      213: -6088658827184851456
+    second: AssetsPraia_46
+  - first:
+      213: -1244174270919608923
+    second: AssetsPraia_47
+  - first:
+      213: 3920030652689018866
+    second: AssetsPraia_48
+  - first:
+      213: -2338101789979510230
+    second: AssetsPraia_49
+  - first:
+      213: 4631963845537181775
+    second: AssetsPraia_50
+  - first:
+      213: -7535998405868967301
+    second: AssetsPraia_51
+  - first:
+      213: -4027425667374063839
+    second: AssetsPraia_52
+  - first:
+      213: -3232397707061139965
+    second: AssetsPraia_53
+  - first:
+      213: 8208560919362242049
+    second: AssetsPraia_54
+  - first:
+      213: -5407668888026396974
+    second: AssetsPraia_55
+  - first:
+      213: -4789649637440701962
+    second: AssetsPraia_56
+  - first:
+      213: 6164804817144809120
+    second: AssetsPraia_57
+  - first:
+      213: -4304015449891372884
+    second: AssetsPraia_58
+  - first:
+      213: 8574602573342607668
+    second: AssetsPraia_59
+  - first:
+      213: 2628685089256133406
+    second: AssetsPraia_60
+  - first:
+      213: -1413115279079882738
+    second: AssetsPraia_61
+  - first:
+      213: 7296425038151726523
+    second: AssetsPraia_62
+  - first:
+      213: -7449622893220900365
+    second: AssetsPraia_63
+  - first:
+      213: 6135083430534395262
+    second: AssetsPraia_64
+  - first:
+      213: -2540284244975995351
+    second: AssetsPraia_65
+  - first:
+      213: -959577520724374385
+    second: AssetsPraia_66
+  - first:
+      213: 798294990107955770
+    second: AssetsPraia_67
+  - first:
+      213: 8382418788242350879
+    second: AssetsPraia_68
+  - first:
+      213: 7408263785556227378
+    second: AssetsPraia_69
+  - first:
+      213: -3958888823041704273
+    second: AssetsPraia_70
+  - first:
+      213: 8243316852813479024
+    second: AssetsPraia_71
+  - first:
+      213: 2487520292469503336
+    second: AssetsPraia_72
+  - first:
+      213: -3370472479527199384
+    second: AssetsPraia_73
+  - first:
+      213: -7884955565301524457
+    second: AssetsPraia_74
+  - first:
+      213: 5478045951857717381
+    second: AssetsPraia_75
+  - first:
+      213: 8132882781207221979
+    second: AssetsPraia_76
+  - first:
+      213: 3862435731248311247
+    second: AssetsPraia_77
+  - first:
+      213: -5897470325754525279
+    second: AssetsPraia_78
+  - first:
+      213: -5518517077263547981
+    second: AssetsPraia_79
+  - first:
+      213: 93284047051851044
+    second: AssetsPraia_80
+  - first:
+      213: -3439293970168974288
+    second: AssetsPraia_81
+  - first:
+      213: -6739061333338262803
+    second: AssetsPraia_82
+  - first:
+      213: -9077877710791947990
+    second: AssetsPraia_83
+  - first:
+      213: 5198290987486079525
+    second: AssetsPraia_84
+  - first:
+      213: 6962446962339397684
+    second: AssetsPraia_85
+  - first:
+      213: 8013368478417444999
+    second: AssetsPraia_86
+  - first:
+      213: -8856580854377504279
+    second: AssetsPraia_87
+  - first:
+      213: 8756939796097216909
+    second: AssetsPraia_88
+  - first:
+      213: 8601941357579077886
+    second: AssetsPraia_89
+  - first:
+      213: -4989177243236174262
+    second: AssetsPraia_90
+  - first:
+      213: -7101899801122901822
+    second: AssetsPraia_91
+  - first:
+      213: 6038304476158417171
+    second: AssetsPraia_92
+  - first:
+      213: -5477778703330593252
+    second: AssetsPraia_93
+  - first:
+      213: 7840059691966694329
+    second: AssetsPraia_94
+  - first:
+      213: 6339958914349275343
+    second: AssetsPraia_95
+  - first:
+      213: 1076188947905168134
+    second: AssetsPraia_96
+  - first:
+      213: 3596271291892247178
+    second: AssetsPraia_97
+  - first:
+      213: 6556804117077149035
+    second: AssetsPraia_98
+  - first:
+      213: 291176250342443045
+    second: AssetsPraia_99
+  - first:
+      213: 1347962796743340870
+    second: AssetsPraia_100
+  - first:
+      213: -7131106534880185150
+    second: AssetsPraia_101
+  - first:
+      213: -6510965148263860444
+    second: AssetsPraia_102
+  - first:
+      213: 2894757933252968795
+    second: AssetsPraia_103
+  - first:
+      213: 6935541483068505703
+    second: AssetsPraia_104
+  - first:
+      213: -8162300589592960371
+    second: AssetsPraia_105
+  - first:
+      213: -1594873182095809887
+    second: AssetsPraia_106
+  - first:
+      213: 1484056146959994290
+    second: AssetsPraia_107
+  - first:
+      213: -5106673391623364406
+    second: AssetsPraia_108
+  - first:
+      213: -2940182749392356276
+    second: AssetsPraia_109
+  - first:
+      213: -402660088893615699
+    second: AssetsPraia_110
+  - first:
+      213: 8334286462722798611
+    second: AssetsPraia_111
+  - first:
+      213: -596127310127213358
+    second: AssetsPraia_112
+  - first:
+      213: 317558180237711988
+    second: AssetsPraia_113
+  - first:
+      213: 35358678098149076
+    second: AssetsPraia_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsPraia_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 778
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d70c3d4133bb80800000000000000
+      internalID: -8380300273816971617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 778
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25351b72e1255b0800000000000000
+      internalID: -5381205448926735642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 778
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf427e1f14061ab70800000000000000
+      internalID: 8908507374263149819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 777
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef71931c28224b80800000000000000
+      internalID: -8412116984202690580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 778
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54a5e1e82ee96f0800000000000000
+      internalID: -675853794036529689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 778
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a31e5e4d5f7566b0800000000000000
+      internalID: -5303692947435416665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 778
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e754b53cc4e6930800000000000000
+      internalID: 4138329509533679175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 778
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc0deb9eda4e180800000000000000
+      internalID: -9086946928686477845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 776
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbd72f407ab63d0800000000000000
+      internalID: -3212290269508681915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 778
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669754bb307662b0800000000000000
+      internalID: -5591658485602871708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 632
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36363ee82848d01d0800000000000000
+      internalID: -3382902048807492765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 632
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9dcda3602f0fe0800000000000000
+      internalID: -1220721361504330852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_12
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 549
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb33000da42f7e0800000000000000
+      internalID: -1733240649367176028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 602
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01059fdb37336cb0800000000000000
+      internalID: -4871989641591062257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 602
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c2b24cb2ae93d70800000000000000
+      internalID: 9023500802109156473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 549
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9a2a6785813530800000000000000
+      internalID: 3832991574517259479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 589
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baef6977de9a1950800000000000000
+      internalID: 6420618867062598320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 589
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a18a489ce1c84b0800000000000000
+      internalID: -5436936799280162232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_18
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 549
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366e43fbe71d0f00800000000000000
+      internalID: 1084549387432912443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 549
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98b052a3d8e6120800000000000000
+      internalID: 2409018131558926755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 548
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c2431e089185a0800000000000000
+      internalID: -6520763599235660992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 549
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7b2c9db5b8031d0800000000000000
+      internalID: -3373042894288799784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 549
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98940d52812075f50800000000000000
+      internalID: 6869962059313858953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 549
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ab8a783abe7920800000000000000
+      internalID: 2990031954357494127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 549
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491463d0137410d20800000000000000
+      internalID: 3242951482684096916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 548
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e36e7ce6117db0800000000000000
+      internalID: -4796026923184299622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 549
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeeae963f81c43b0800000000000000
+      internalID: -5527015208957317462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 549
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fada76482698b0800000000000000
+      internalID: -5145881241050220801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 549
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b868ee4629d970800000000000000
+      internalID: 8780091068883973888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 549
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c818c920abca0610800000000000000
+      internalID: 1588305707357706440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 548
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dee8f176d9f8750800000000000000
+      internalID: 6309434669206007110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 572
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0585562ab52836be0800000000000000
+      internalID: -1485200122023946160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 549
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f9e5f871cbce10800000000000000
+      internalID: 2219079966676087818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 549
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087b9c9abda28570800000000000000
+      internalID: 8467521266412910604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_34
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 548
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398610a4ac74c590800000000000000
+      internalID: -7654856420120688334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_35
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 549
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9b55dad6cf6af0800000000000000
+      internalID: -400883198627964183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 549
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b54b57ed4bd5c10800000000000000
+      internalID: 2043988673446566743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_37
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 549
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc57714f6841e820800000000000000
+      internalID: 2945715273953926398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_38
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 549
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301ae4871afa0840800000000000000
+      internalID: 5191236499419041850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 405
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7725502e928bcdfc0800000000000000
+      internalID: -3468695122956955017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 405
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa740c7e1dbbd3c0800000000000000
+      internalID: -4333662277786633483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f0db1e544c8720800000000000000
+      internalID: 2849727835202975199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3125d378e317ad1a0800000000000000
+      internalID: -6783985375309377005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d32434d419bc60800000000000000
+      internalID: 7834315928428074247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767ea708f3987120800000000000000
+      internalID: 2411840293946947199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsPraia_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91011070406997dd0800000000000000
+      internalID: -2487792375103942631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

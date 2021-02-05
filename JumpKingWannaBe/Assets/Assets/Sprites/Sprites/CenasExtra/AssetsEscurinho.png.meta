@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: dfe3e2b1496a9424d8435e062e976094
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6051828040816384367
+    second: AssetsEscurinho_0
+  - first:
+      213: -968636786301572646
+    second: AssetsEscurinho_1
+  - first:
+      213: -5719835629445150407
+    second: AssetsEscurinho_2
+  - first:
+      213: 3276771671932620828
+    second: AssetsEscurinho_3
+  - first:
+      213: 6031520133394511695
+    second: AssetsEscurinho_4
+  - first:
+      213: -4506058327175004309
+    second: AssetsEscurinho_5
+  - first:
+      213: 7328679900555016284
+    second: AssetsEscurinho_6
+  - first:
+      213: -6638784791672975832
+    second: AssetsEscurinho_7
+  - first:
+      213: 3685599264837411615
+    second: AssetsEscurinho_8
+  - first:
+      213: 9044302596012896478
+    second: AssetsEscurinho_9
+  - first:
+      213: 756964688370411271
+    second: AssetsEscurinho_10
+  - first:
+      213: 3714791186122474842
+    second: AssetsEscurinho_11
+  - first:
+      213: 5066286661234812266
+    second: AssetsEscurinho_12
+  - first:
+      213: -5997224547413779417
+    second: AssetsEscurinho_13
+  - first:
+      213: 7459825324637162498
+    second: AssetsEscurinho_14
+  - first:
+      213: 8476919670147820924
+    second: AssetsEscurinho_15
+  - first:
+      213: -1726380775327169365
+    second: AssetsEscurinho_16
+  - first:
+      213: -1054535848870544707
+    second: AssetsEscurinho_17
+  - first:
+      213: -8753537091237758498
+    second: AssetsEscurinho_0
+  - first:
+      213: 8556568381806898349
+    second: AssetsEscurinho_1
+  - first:
+      213: -418964727927130536
+    second: AssetsEscurinho_2
+  - first:
+      213: -5678438740984493369
+    second: AssetsEscurinho_3
+  - first:
+      213: -8195248326604863263
+    second: AssetsEscurinho_4
+  - first:
+      213: -585328056439035541
+    second: AssetsEscurinho_5
+  - first:
+      213: 3884454995220899868
+    second: AssetsEscurinho_6
+  - first:
+      213: 3155940326816909663
+    second: AssetsEscurinho_7
+  - first:
+      213: -8908660344065792471
+    second: AssetsEscurinho_8
+  - first:
+      213: 8641671632004361451
+    second: AssetsEscurinho_9
+  - first:
+      213: -5670760219585123964
+    second: AssetsEscurinho_10
+  - first:
+      213: 8588645681276093097
+    second: AssetsEscurinho_11
+  - first:
+      213: -665913743516613826
+    second: AssetsEscurinho_12
+  - first:
+      213: 5578363860073730620
+    second: AssetsEscurinho_13
+  - first:
+      213: -1264112937415838812
+    second: AssetsEscurinho_14
+  - first:
+      213: 3873647145133920712
+    second: AssetsEscurinho_15
+  - first:
+      213: 6070484547308097448
+    second: AssetsEscurinho_16
+  - first:
+      213: 2208033506688759916
+    second: AssetsEscurinho_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsEscurinho_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 260
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69db960a896cf350800000000000000
+      internalID: 6051828040816384367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 260
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96e1499f5be82f0800000000000000
+      internalID: -968636786301572646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 260
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398c4dcccf0f90b0800000000000000
+      internalID: -5719835629445150407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 260
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105b9b797e697d20800000000000000
+      internalID: 3276771671932620828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 260
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b89eda9344b350800000000000000
+      internalID: 6031520133394511695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 260
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffa8753d34771c0800000000000000
+      internalID: -4506058327175004309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5870216a83b4b560800000000000000
+      internalID: 7328679900555016284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0110e76c4ed3a0800000000000000
+      internalID: -6638784791672975832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1323151101e52330800000000000000
+      internalID: 3685599264837411615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 68
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fd74da41d38d70800000000000000
+      internalID: 9044302596012896478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 68
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70725dd9f57418a00800000000000000
+      internalID: 756964688370411271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550597e6e69d8330800000000000000
+      internalID: 3714791186122474842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65633540e01f4640800000000000000
+      internalID: 5066286661234812266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c162d7c0495cca0800000000000000
+      internalID: -5997224547413779417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c0671eb9f968760800000000000000
+      internalID: 7459825324637162498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 68
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7daea0078114a570800000000000000
+      internalID: 8476919670147820924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 68
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48f83e4d9aa08e0800000000000000
+      internalID: -1726380775327169365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsEscurinho_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf72d8b398d51f0800000000000000
+      internalID: -1054535848870544707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
