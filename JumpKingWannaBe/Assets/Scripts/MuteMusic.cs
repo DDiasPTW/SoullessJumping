@@ -7,11 +7,13 @@ public class MuteMusic : MonoBehaviour
 {
     private AudioSource aS;
 
-    static MuteMusic instance;
+    private void Awake()
+    {
+        PlayerPrefs.GetInt("Musica", 1);
+    }
     void Start()
     {
         aS = GetComponent<AudioSource>();
-        PlayerPrefs.GetInt("Musica", 1);
         if (PlayerPrefs.GetInt("Musica") == 0)
         {
             aS.volume = 0;
